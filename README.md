@@ -178,3 +178,19 @@ streamlit run "App Compensation Tool.py"
 ## ⚠️ Disclaimer
 
 > This project uses **synthetic data** — all employee records are artificially generated for learning purposes. Salary predictions are based on internal workforce patterns only and should not be used as market benchmarks.
+
+
+App output:
+<img width="974" height="730" alt="Screenshot 2026-07-16 050112" src="https://github.com/user-attachments/assets/8217f174-1b31-432e-b3dc-a2ecb4c70829" />
+
+<img width="1435" height="849" alt="Screenshot 2026-07-16 050144" src="https://github.com/user-attachments/assets/700b221e-5718-47d0-a8eb-7b72a9065246" />
+
+<img width="1436" height="850" alt="Screenshot 2026-07-16 050214" src="https://github.com/user-attachments/assets/a50e7320-4ef8-4658-9328-50e6d4d20087" />
+
+
+
+
+
+
+
+
